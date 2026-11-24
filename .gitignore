@@ -1,0 +1,32 @@
+
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# Arquivos de compilação
+Debug/
+Release/
+x64/
+x86/
+*.o
+*.a
+*.dll
+*.exe
+*.ilk
+*.exp
+*.lib
+
+# Banco de dados local
+*.db
+*.db-wal
+*.db-shm
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
